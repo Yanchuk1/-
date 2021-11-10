@@ -1,0 +1,10 @@
+C:\Users\User1\source\repos\redactor\redactor\bin\Debug\redactor.exe.config
+C:\Users\User1\source\repos\redactor\redactor\bin\Debug\redactor.exe
+C:\Users\User1\source\repos\redactor\redactor\bin\Debug\redactor.pdb
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.csproj.AssemblyReference.cache
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.Form1.resources
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.Properties.Resources.resources
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.csproj.GenerateResource.cache
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.exe
+C:\Users\User1\source\repos\redactor\redactor\obj\Debug\redactor.pdb
